@@ -1,0 +1,746 @@
+city_state_province_id,city,state_province
+1,Amsterdam,
+2,Berlin,
+3,Birkenhead,
+4,Bishop Aukland,
+5,Boston,
+6,Bournemouth,
+7,Bridlington,
+8,Brighton,
+9,Bristol,
+10,Brough,
+11,Bury St. Edmunds,
+12,Cardiff,
+13,Chandlers Ford,
+14,Chorleywood,
+15,Cienega de flores,
+16,Ciudad Juarez,
+17,Coventry,
+18,Dudley,
+19,Fuchu,
+20,Grantham,
+21,Hayes,
+22,Hull,
+23,Ipswich,
+24,Kuala Lumpur,
+25,Leeds,
+26,London,
+27,Manchester,
+28,Mansfield,
+29,Newport,
+30,Paris,
+31,Ramos Arizpe,
+32,Reynosa,
+33,Rotherham,
+34,Silao,
+35,Singapore,
+36,Stafford,
+37,Telford,
+38,Tijuana,
+39,WHITBY,
+40,Welshpool,
+41,Wirral,
+42,Wolverhampton,
+43,Yokosuka,
+44,Birmingham,AL
+45,Vestavia Hills,AL
+46,Avondale,AZ
+47,Chandler,AZ
+48,Gilbert,AZ
+49,Goodyear,AZ
+50,Mesa,AZ
+51,Oro Valley,AZ
+52,Peoria,AZ
+53,Phoenix,AZ
+54,Scottsdale,AZ
+55,TEMPE,AZ
+56,Tempe,AZ
+57,Aberdeen,Aberdeenshire
+58,Aguascalientes,Aguascalientes
+59,Saint-Quentin-Fallavier,Auvergne-Rhône-Alpes
+60,Bitonto BA,BA
+61,Waghäusel,Baden-Württemberg
+62,Tijuana,Baja California
+63,Fürstenfeldbruck,Bayern
+64,Wörnitz,Bayern
+65,Shefford,Bedfordshire
+66,Theale,Berkshire
+67,Berlin,Berlin
+68,Grossbeeren,Brandenburg
+69,Grünheide,Brandenburg
+70,Ludwigsfelde,Brandenburg
+71,High Wycombe,Buckinghamshire
+72,Marlow,Buckinghamshire
+73,Alameda,CA
+74,Anaheim,CA
+75,Baldwin Park,CA
+76,Bell,CA
+77,Berkeley,CA
+78,Berkley,CA
+79,Bloomington,CA
+80,Buena Park,CA
+81,Campbell,CA
+82,Canoga Park,CA
+83,Chatsworth,CA
+84,Chino,CA
+85,City of Industry,CA
+86,Colton,CA
+87,Compton,CA
+88,Coronado,CA
+89,Costa Mesa,CA
+90,Culver City,CA
+91,Cupertino,CA
+92,Dublin,CA
+93,EL Segundo,CA
+94,Elk Grove,CA
+95,Emeryville,CA
+96,Encinitas,CA
+97,Escondido,CA
+98,Fair Oaks,CA
+99,Folsom,CA
+100,Foster City,CA
+101,Fremont,CA
+102,Gardena,CA
+103,Glendora,CA
+104,Huntington Beach,CA
+105,Irvine,CA
+106,Jurupa Valley,CA
+107,LA Puente,CA
+108,Livermore,CA
+109,Long Beach,CA
+110,Los Angeles,CA
+111,Manteca,CA
+112,Marina Del Ray,CA
+113,Marina Del Rey,CA
+114,Menlo Park,CA
+115,Monterey,CA
+116,Moreno Valley,CA
+117,Newbury Park,CA
+118,Newport Beach,CA
+119,North Hollywood,CA
+120,Oceanside,CA
+121,Ontario,CA
+122,Pacifica,CA
+123,Palm Desert,CA
+124,Pasadena,CA
+125,Perris,CA
+126,Pomona,CA
+127,Pompano Beach,CA
+128,Rancho Cordova,CA
+129,Redwood City,CA
+130,Roseville,CA
+131,Sacramento,CA
+132,Salinas,CA
+133,San Diego,CA
+134,San Francisco,CA
+135,San Jose,CA
+136,San Leandro,CA
+137,Santa Ana,CA
+138,Santa Clara,CA
+139,Santa Cruz,CA
+140,Santa Fe,CA
+141,Santa Fe Springs,CA
+142,Santa Monica,CA
+143,Santa Rosa,CA
+144,Simi Valley,CA
+145,Studio City,CA
+146,Sunnyvale,CA
+147,Thousand Oaks,CA
+148,Torrance,CA
+149,Tustin,CA
+150,Upland,CA
+151,Valencia,CA
+152,Van Nuys,CA
+153,Vernon,CA
+154,Vista,CA
+155,Walnut,CA
+156,Walnut Creek,CA
+157,Westlake Village,CA
+158,Westminster,CA
+159,Whittier,CA
+160,Aurora,CO
+161,Centennial,CO
+162,Commerce City,CO
+163,Denver,CO
+164,Lakewood,CO
+165,Parker,CO
+166,Westminster,CO
+167,East Hartford,CT
+168,Farmington,CT
+169,Glastonbury,CT
+170,Orange,CT
+171,Ridgefield,CT
+172,South Windsor,CT
+173,Stamford,CT
+174,Wilton,CT
+175,Chester,Cheshire
+176,Yachiyo,Chiba
+177,Camargo,Chihuahua
+178,Chihuahua,Chihuahua
+179,Ciudad Juarez,Chihuahua
+180,Ciudad Juárez,Chihuahua
+181,Cuauhtémoc,Chihuahua
+182,Delicias,Chihuahua
+183,G.Farias,Chihuahua
+184,Nuevo Casas Grandes,Chihuahua
+185,Nanjing,China
+186,Azcapotzalco,Ciudad de Mexico
+187,Cd. Acuña,Coahuila
+188,Derramadero,Coahuila
+189,Monclova,Coahuila
+190,Ramos Arizpe,Coahuila
+191,Saltillo,Coahuila
+192,San Pedro de las Colonias,Coahuila
+193,Torreon,Coahuila
+194,Camborne,Cornwall
+195,Falmouth,Cornwall
+196,Goonhaven,Cornwall
+197,St Austell,Cornwall
+198,Cuautitlan Izcalli,Cuautitlan Izcalli
+199,Washington,DC
+200,Washington DC,DC
+201,New Castle,DE
+202,Plymouth,Devon
+203,Balloch,Dunbartonshire
+204,Durango,Durango
+205,G. Palacio,Durango
+206,Durham,Durham
+207,Estado de Mexico,EDOMEX
+208,Ipswich,East Anglia
+209,Dunbar,East Lothian
+210,Chelmsford,Essex
+211,Cuautitlan Izcalli,Estado de Mexico
+212,Huehuetoca,Estado de Mexico
+213,Toluca,Estado de Mexico
+214,Eindhoven,Europe
+215,Leeds,Europe
+216,Meudon,Europe
+217,Florence,FI
+218,Altamonte Springs,FL
+219,Apopka,FL
+220,Boca Raton,FL
+221,Boynton Beach,FL
+222,Bradenton,FL
+223,Cape Coral,FL
+224,Cape Haze,FL
+225,Clearwater,FL
+226,Clermont,FL
+227,Coral Gables,FL
+228,Coral Springs,FL
+229,Davenport,FL
+230,Davie,FL
+231,Deerfield,FL
+232,Delray Beach,FL
+233,Doral,FL
+234,Fernandina Beach,FL
+235,Fleming Island,FL
+236,Fort Lauderdale,FL
+237,Fort Myers,FL
+238,Four Corners,FL
+239,Ft Lauderdale,FL
+240,Gainesville,FL
+241,Hernando,FL
+242,Hialeah,FL
+243,Jacksonville,FL
+244,Jensen Beach,FL
+245,Kissimmee,FL
+246,LAKELAND,FL
+247,Lake Worth,FL
+248,Largo,FL
+249,Launderhill,FL
+250,Longwood,FL
+251,Maitland,FL
+252,Margate,FL
+253,Melbourne,FL
+254,Miami,FL
+255,Miramar,FL
+256,Naples,FL
+257,Newberry,FL
+258,North Ft. Myers,FL
+259,Oakland Park,FL
+260,Orlando,FL
+261,Palm Beach,FL
+262,Palm Beach Gardens,FL
+263,Pembroke Pines,FL
+264,Plantation,FL
+265,Poinciana,FL
+266,Pompano Beach,FL
+267,Ponte Vedra Beach,FL
+268,Port Charlotte,FL
+269,Port Richey,FL
+270,Port St. Lucie,FL
+271,Punta Gorda,FL
+272,Riverview,FL
+273,Royal Palm Beach,FL
+274,Ruskin,FL
+275,Sarasota,FL
+276,St. Augustine,FL
+277,Sunrise,FL
+278,Tallahassee,FL
+279,Tampa,FL
+280,Venice,FL
+281,Viera,FL
+282,Wellington,FL
+283,West Palm Beach,FL
+284,Winter Garden,FL
+285,Winter Park,FL
+286,Mold,Flintshire
+287,Anagni,Frosinone
+288,Acworth,GA
+289,Adairsville,GA
+290,Alpharetta,GA
+291,Atlanta,GA
+292,Buford,GA
+293,Canton,GA
+294,College Park,GA
+295,Covington,GA
+296,Cumming,GA
+297,Dacula,GA
+298,Dallas,GA
+299,Dalton,GA
+300,Fairburn,GA
+301,Kennesaw,GA
+302,Lawrenceville,GA
+303,Lithia Springs,GA
+304,Marietta,GA
+305,McDonough,GA
+306,Norcross,GA
+307,Palmetto,GA
+308,Peachtree City,GA
+309,Savannah,GA
+310,Stone Mountain,GA
+311,Suwanee,GA
+312,Union City,GA
+313,Woodstock,GA
+314,Bristol,Gloucestershire
+315,Thornbury,Gloucestershire
+316,Fontenoy-sur-Moselle,Grand Est
+317,Dagenham,Greater London
+318,London,Greater London
+319,Manchester,Greater Manchester
+320,Guadalajara,Guadalajara
+321,,Guanajuato
+322,Celaya,Guanajuato
+323,Guanajuato,Guanajuato
+324,Irapuato,Guanajuato
+325,Silao,Guanajuato
+326,Icheon,Gyeonggi
+327,Pyeongtaek,Gyeonggi
+328,Hamburg,Hamburg
+329,Waterlooville,Hampshire
+330,Boulogne-sur-Mer,Hauts-de-France
+331,Lang Fang,Hebei
+332,Florstadt,Hessen
+333,Frankfurt Flughafen,Hessen
+334,Frankfurt am Main,Hessen
+335,Hammersbach,Hessen
+336,Offenbach,Hessen
+337,Hong Kong,Hong Kong
+338,Kowloon,Hong Kong
+339,Iowa City,IA
+340,Meridian,ID
+341,Chicago,IL
+342,Deer Park,IL
+343,Elmhurst,IL
+344,Hodgekins,IL
+345,Joliet,IL
+346,Melrose Park,IL
+347,Naperville,IL
+348,New Lenox,IL
+349,Northlake,IL
+350,Rosemont,IL
+351,Round Lake Beach,IL
+352,Vernon Hills,IL
+353,Waukegan,IL
+354,Wheaton,IL
+355,Zion,IL
+356,Avon,IN
+357,Indianapolis,IN
+358,Scovizze,Italy
+359,Settimo Torinese,Italy
+360,Guadalajara,Jalisco
+361,Tlajomulco de Zuñiga,Jalisco
+362,Louisville,KY
+363,Valley Station,KY
+364,Yokohama,Kanagawa
+365,Kuala Lumpur,Kuala Lumpur
+366,Shimogyo-Ku,Kyoto
+367,Glasgow,Lanarkshire
+368,Manchester,Lancashire
+369,Leicester,Leicestershire
+370,Weert,Limburg
+371,Borgo San Giovanni,Lodi
+372,Milan,Lombardia
+373,Abington,MA
+374,Andover,MA
+375,Ashland,MA
+376,Billerica,MA
+377,Boston,MA
+378,Brighton,MA
+379,Cambridge,MA
+380,Framingham,MA
+381,Mansfield,MA
+382,Melrose,MA
+383,Newton,MA
+384,North Andover,MA
+385,North Attleboro,MA
+386,North Easton,MA
+387,Raynham,MA
+388,Swampscott,MA
+389,Waltham,MA
+390,Watertown,MA
+391,Whitman,MA
+392,Worchester ,MA
+393,Aberdeen,MD
+394,Annapolis,MD
+395,Baltimore,MD
+396,Bethesda,MD
+397,Brandywine,MD
+398,Clarksburg,MD
+399,Columbia,MD
+400,Edgewater,MD
+401,Elkridge,MD
+402,Ellicott City,MD
+403,Fulton,MD
+404,Germantown,MD
+405,Hanover,MD
+406,Hyattsville,MD
+407,Lanham,MD
+408,Laurel,MD
+409,Middle River,MD
+410,Millersville,MD
+411,Ocean City,MD
+412,Odenton,MD
+413,Owings Mills,MD
+414,Perry Hall,MD
+415,Rockville,MD
+416,Silver Spring,MD
+417,Suitland,MD
+418,Timonium,MD
+419,Towson,MD
+420,Westminster,MD
+421,Wheaton,MD
+422,Windsor Mill,MD
+423,Arese,MI
+424,Grand Rapids,MI
+425,Lincoln Park,MI
+426,Milano,MI
+427,San Donato Milanese,MI
+428,Shelby Township,MI
+429,Troy,MI
+430,Edina,MN
+431,Maple Grove,MN
+432,Minneapolis,MN
+433,Oakdale,MN
+434,Plymouth,MN
+435,Saint Paul,MN
+436,Saint paul,MN
+437,St. Paul,MN
+438,Woodbury,MN
+439,Hazelwood,MO
+440,St. Charles,MO
+441,Tijuana,MXBN
+442,Ciudad Juarez,MXCH
+443,San Agustin del Guadalix,Madrid
+444,C.P.,Mexico
+445,Cavezzo,Modena
+446,Apodaca,Monterrey
+447,Carrboro,NC
+448,Cary,NC
+449,Chapel Hill,NC
+450,Charlotte,NC
+451,Cornelius,NC
+452,Durham,NC
+453,Holly Springs,NC
+454,Huntersville,NC
+455,Monroe,NC
+456,Morrisville,NC
+457,Morrisville ,NC
+458,North Raleigh,NC
+459,Raleigh,NC
+460,Wilmington,NC
+461,Hampton,NH
+462,Salem,NH
+463,Bayonne,NJ
+464,Bridgewater,NJ
+465,Budd Lake,NJ
+466,Clifton,NJ
+467,Eatontown,NJ
+468,Edgewater,NJ
+469,Englewood,NJ
+470,Fair Lawn,NJ
+471,Flanders,NJ
+472,Fort Lee,NJ
+473,Franklin Township,NJ
+474,Harrington Park,NJ
+475,Hasbrouck Heights,NJ
+476,Hillside,NJ
+477,Hoboken,NJ
+478,Jersey City,NJ
+479,Linden,NJ
+480,Lodi,NJ
+481,Lopatcong,NJ
+482,Lopatcong Twp.,NJ
+483,Mahwah,NJ
+484,Maplewood,NJ
+485,Marlton,NJ
+486,Middletown,NJ
+487,Morris Plains,NJ
+488,Morristown,NJ
+489,Mount Laurel,NJ
+490,Mountainside,NJ
+491,Mt Laurel,NJ
+492,New Brunswick,NJ
+493,Northvale,NJ
+494,Norwood,NJ
+495,Orange,NJ
+496,Park Ridge,NJ
+497,Parsippany,NJ
+498,Pennsville Township,NJ
+499,Phillipsburg,NJ
+500,Robbinsville,NJ
+501,Rochelle Park,NJ
+502,Roseland,NJ
+503,Shrewsbury,NJ
+504,Somerset,NJ
+505,South Orange,NJ
+506,Teaneck,NJ
+507,Tinton Falls,NJ
+508,Weehawken,NJ
+509,West New York,NJ
+510,Woodbridge,NJ
+511,Woodbury,NJ
+512,Albuquerque,NM
+513,Las Vegas,NV
+514,Reno,NV
+515,Bronx,NY
+516,Brooklyn,NY
+517,Chappaqua,NY
+518,Coram,NY
+519,East Northport,NY
+520,Glen Cove,NY
+521,Huntington Station,NY
+522,Islandia,NY
+523,Mount Pleasant,NY
+524,New Hyde Park,NY
+525,New York,NY
+526,Ridgewood,NY
+527,Staten Island,NY
+528,Valley Stream,NY
+529,White Plains,NY
+530,Yonkers,NY
+531,Rosehill,New South Wales
+532,Sydney,New South Wales
+533,Hannover,Niedersachsen
+534,Düsseldorf,Nordrhein-Westfalen
+535,Leverkusen,Nordrhein-Westfalen
+536,Whitby,North Yorkshire
+537,Amsterdam,Northern part of Amsterdam-Southeast
+538,Apaseo el gande,Nuevo Leon
+539,Apodaca,Nuevo Leon
+540,Cienega de Flores,Nuevo Leon
+541,Monterrey,Nuevo Leon
+542,Mty,Nuevo Leon
+543,Columbus,OH
+544,Hilliard,OH
+545,Beaverton,OR
+546,Clackamas,OR
+547,Gresham,OR
+548,Hillsboro,OR
+549,Portland,OR
+550,Toulouse,Occitanie
+551,Kita-ku,Osaka
+552,Nishi-ku,Osaka
+553,Osaka,Osaka
+554,Suita-shi,Osaka
+555,Aston,PA
+556,Bala Cynwyd,PA
+557,Bensalem,PA
+558,Bloomsburg,PA
+559,Carlisle,PA
+560,Center Valley,PA
+561,Chadds Ford,PA
+562,Hellertown,PA
+563,Malvern,PA
+564,McConnellsburg,PA
+565,Mechanicsburg,PA
+566,Media,PA
+567,Norristown,PA
+568,Pittsburgh,PA
+569,Plymouth Meeting,PA
+570,Reading,PA
+571,Springfield,PA
+572,Warminster,PA
+573,Willistown,PA
+574,Durtal,Pays de la Loire
+575,George Town,Penang
+576,Ipoh,Perak
+577,Marignane,Provence-Alpes-Côte d'Azur
+578,Salon-de-Provence,Provence-Alpes-Côte d'Azur
+579,Puebla,Puebla
+580,Brisbane,QLD
+581,Brisbane,Queensland
+582,El Marqués,Querétaro
+583,Cancun,Quintana Roo
+584,Faenza,RA
+585,Providence,RI
+586,Rome,RM
+587,Gyeonggi-do,Republic of Korea
+588,Santarcangelo di Romagna,Rimini
+589,Oakham,Rutland
+590,Anderson,SC
+591,Bluffton,SC
+592,CHARLESTON,SC
+593,Charleston,SC
+594,Goose Creek,SC
+595,Greenville,SC
+596,Irmo,SC
+597,Mount Pleasant,SC
+598,Myrtle Beach,SC
+599,North Charleston,SC
+600,Sumerville,SC
+601,Summerville,SC
+602,Sioux Falls,SD
+603,San Luis Potosí,San Luis Potosí
+604,Villa de Reyes,San Luis Potosí
+605,Hamburg,Schleswig-Holstein
+606,Kuala Lumpar,Selangor
+607,Jung-gu,Seoul
+608,Seoul,Seoul
+609,Songpa-gu,Seoul
+610,Seoul,Seoul Special City
+611,Shanghai,Shanghai
+612,Atami,Shizuoka
+613,Singapore,Singapore
+614,Hermosillo,Sonora
+615,Madrid,Spain
+616,Leek,Staffordshire
+617,Stafford,Staffordshire
+618,Antioch,TN
+619,Bartlett,TN
+620,Collierville,TN
+621,Cordova,TN
+622,Franklin,TN
+623,Gallatin,TN
+624,Hendersonville,TN
+625,Madison,TN
+626,Memphis,TN
+627,Nashville,TN
+628,Smyrna,TN
+629,Addison,TX
+630,Arlington,TX
+631,Austin,TX
+632,Bedford,TX
+633,Boston,TX
+634,Carrollton,TX
+635,Cedar Hill,TX
+636,Clute,TX
+637,Converse,TX
+638,Dallas,TX
+639,Denton,TX
+640,Euless,TX
+641,Fort Worth,TX
+642,Ft Worth,TX
+643,Grand Prairie,TX
+644,Grapevine,TX
+645,Houston,TX
+646,Irving,TX
+647,Katy,TX
+648,Lancaster,TX
+649,League City,TX
+650,Lewisville,TX
+651,McKinney,TX
+652,Plano,TX
+653,Richardson,TX
+654,San Antonio,TX
+655,South Fort Worth,TX
+656,Sugarland,TX
+657,Villahermosa,Tabasco
+658,Reynosa,Tamaulipas
+659,Chiyoda-ku,Tokyo
+660,Chuo City,Tokyo
+661,Chuo-ku,Tokyo
+662,Koto-ku,Tokyo
+663,Shinagawa-ku,Tokyo
+664,Shinjuku-ku,Tokyo
+665,Sumida-ku,Tokyo
+666,Taito-ku,Tokyo
+667,Tokyo,Tokyo
+668,Barnsley,United Kingdom
+669,Belvedere,United Kingdom
+670,Birmingham,United Kingdom
+671,Bristol,United Kingdom
+672,Bromsgrove,United Kingdom
+673,Derby,United Kingdom
+674,Eccles,United Kingdom
+675,Ellesmere Port,United Kingdom
+676,Hull,United Kingdom
+677,Leeds,United Kingdom
+678,London,United Kingdom
+679,Ludlow,United Kingdom
+680,Manchester,United Kingdom
+681,Newbury,United Kingdom
+682,Newcastle,United Kingdom
+683,Nottingham,United Kingdom
+684,Oxford,United Kingdom
+685,Reading,United Kingdom
+686,Rochdale,United Kingdom
+687,Runcorn,United Kingdom
+688,Sheffield,United Kingdom
+689,Southampton,United Kingdom
+690,Stoke On Trent,United Kingdom
+691,Tenbury Wells,United Kingdom
+692,Thatcham,United Kingdom
+693,Alexandria,VA
+694,Arlington,VA
+695,Ashburn,VA
+696,Bristol,VA
+697,Chantilly,VA
+698,Chesapeake,VA
+699,Christiansburg,VA
+700,Fair Lakes,VA
+701,Fairfax,VA
+702,Falls Church,VA
+703,Hampton,VA
+704,Henrico,VA
+705,Herndon,VA
+706,Leesburg,VA
+707,Manassas,VA
+708,McLean,VA
+709,Midlothian,VA
+710,Reston,VA
+711,Sterling,VA
+712,Suffolk,VA
+713,Woodbridge,VA
+714,Melbourne,Victoria
+715,Bellevue,WA
+716,Bellingham,WA
+717,EVERETT,WA
+718,Everett,WA
+719,Fife,WA
+720,Kent,WA
+721,Kirkland,WA
+722,Olympia,WA
+723,Puyallup,WA
+724,Redmond,WA
+725,Sea Tac,WA
+726,Seattle,WA
+727,Shoreline,WA
+728,Sumner,WA
+729,Tacoma,WA
+730,Tukwila,WA
+731,Pewaukee,WI
+732,Washington,Washington DC
+733,Coventry,West Midlands
+734,Vienna,Wien
+735,Shanghai,Xuhui District
+736,Sheffield,Yorkshire
+737,Merida,Yucatan
+738,Dordrecht,Zuid-Holland
+739,Rotterdam,Zuid-Holland
+740,Ramos Arizpe,coahuila
+741,Clichy-la-Garenne,Île-de-France
+742,Le Plessis-Pâté,Île-de-France
+743,Meudon,Île-de-France
+744,Montsoult,Île-de-France
+745,Paris,Île-de-France
